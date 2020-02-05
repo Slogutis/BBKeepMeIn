@@ -1,0 +1,9 @@
+Package: com.abdullah.bb
+Name: BBKeepmeIn
+Depends: mobilesubstrate
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Keep your Blackboard account logged forever 
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
